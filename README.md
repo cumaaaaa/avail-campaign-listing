@@ -10,7 +10,7 @@ format to listing.json.
   "logo": "https://placehold.co/400x400",
   "rpc_url": "https://rpc.myappchain.xyz",
   "explorer_url": "https://explorer.myappchain.xyz",
-  "metrics_endpoint": "https://metrics.myappchain.xyz",
+  "metrics_endpoint": "https://metrics.myappchain.xyz/metrics",
   "id": "942ff35e-f048-4d10-ae61-6cb970cad2f0"
 }
 ```
